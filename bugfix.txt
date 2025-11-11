@@ -1,0 +1,4 @@
+PROBLEME:
+L'erreur proviens d'un paranthese pas close 
+SOLUTION:
+Il faudra fermer cette parenthese
